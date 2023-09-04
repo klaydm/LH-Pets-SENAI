@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "dnVeXi4wTQxTvYODOdgbepFLSxHm8NAXi8hmV0K1Wyc=",
+  "Source": "Projeto_Web-Lh_Pets",
+  "BasePath": "_content/Projeto_Web-Lh_Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets",
+      "ContentRoot": "C:\\Kennedy\\C#\\projetos\\Projeto_Web-Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Kennedy\\C#\\projetos\\Projeto_Web-Lh_Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Kennedy\\C#\\projetos\\Projeto_Web-Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
